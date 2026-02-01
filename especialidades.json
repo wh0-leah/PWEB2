@@ -1,1 +1,6 @@
-{ "especialidades": [] }
+{ "especialidades": [{
+  "idEspecialidade": 1765904558351,
+  "nome": "Cardiologia",
+  "descricao": "Tratamento do coração"
+}
+] }
