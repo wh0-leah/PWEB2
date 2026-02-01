@@ -1,1 +1,8 @@
-{ "pacientes": [] }
+{ "pacientes": [{
+  "idPaciente": 1765904558353,
+  "nome": "Maria Souza",
+  "email": "maria@email.com",
+  "telefone": "(11) 90000-0000",
+  "dataNascimento": "1988-05-12"
+}
+] }
