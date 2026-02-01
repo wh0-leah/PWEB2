@@ -1,1 +1,9 @@
-{ "consultas": [] }
+{ "consultas": [{
+  "idConsulta": 1765904558354,
+  "idPaciente": 1765904558353,
+  "idMedico": 1765904558352,
+  "dataHora": "2026-02-15T14:30",
+  "status": "AGENDADA",
+  "observacoes": "Consulta de rotina"
+}
+] }
